@@ -7,5 +7,5 @@ Access: http://dx.doi.org/10.1109/ACCESS.2018.2874752
 
 [![video](http://img.youtube.com/vi/d-D7cibBU40/0.jpg)](https://youtu.be/d-D7cibBU40)
 
-# Latest Version
+# Download Latest Version
 To download the latest version, visit <https://github.com/e-controls/Sim3Tanks>.
